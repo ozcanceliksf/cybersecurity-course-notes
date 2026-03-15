@@ -1,0 +1,20 @@
+# Basic Cybersecurity Notes
+
+## CIA Triad
+- Confidentiality: Protecting information from unauthorized access
+- Integrity: Keeping information accurate and unchanged
+- Availability: Making sure systems and data are accessible when needed
+
+## Common Threats
+- Phishing
+- Malware
+- Ransomware
+- Password attacks
+- Social engineering
+
+## Basic Risk Mitigation
+- Strong passwords
+- Multi-factor authentication
+- Software updates
+- User awareness training
+- Access control
